@@ -77,7 +77,7 @@ export default function ProfileCard() {
               position: "absolute",
             }}
           >
-            YN
+            
           </span>
         </div>
 
